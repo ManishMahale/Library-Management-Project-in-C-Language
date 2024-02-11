@@ -1,0 +1,4 @@
+struct struID
+{
+    int id;
+};
